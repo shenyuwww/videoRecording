@@ -16,7 +16,9 @@
 		
 		
 //JS 部分
-
+引入依赖
+import flvjs from "flv.js";
+import RecordRTC from "recordrtc";
 //播放视频
     startPlay() {
 
